@@ -91,22 +91,23 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
-- [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+- [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ![stars](https://img.shields.io/github/stars/benlau/androidnative.pri?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/benlau/androidnative.pri?style=flat-square)- Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+- [Another Awesome Flutter](https://github.com/nepaul/awesome-flutter) ![stars](https://img.shields.io/github/stars/nepaul/awesome-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nepaul/awesome-flutter?style=flat-square)- A curated list of awesome Flutter libraries, tools, tutorials, articles and more. All you should know about Flutter development! 
 
 ### Tutorial
 
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
-- [Todo List](https://github.com/lesnitsky/todolist_flutter) [259⭐] – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_dev)
+- [Todo List](https://github.com/lesnitsky/todolist_flutter) ![stars](https://img.shields.io/github/stars/lesnitsky/todolist_flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/lesnitsky/todolist_flutter?style=flat-square) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_dev)
 - [Flutter and Dart development](https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23) - Articles and tutorials by [Suragch](https://twitter.com/Suragch1).
 
 ### Beginner
 
-- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) [2795⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+- [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) ![stars](https://img.shields.io/github/stars/olexale/flutter_roadmap?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/olexale/flutter_roadmap?style=flat-square) - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski).
 - [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - by [raywenderlich.com](https://www.raywenderlich.com).
-- [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) [123⭐] - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22).
+- [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) ![stars](https://img.shields.io/github/stars/antz22/ultimate-guide-to-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/antz22/ultimate-guide-to-flutter?style=flat-square) - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22).
 
 ### Intermediate
 
@@ -144,61 +145,61 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Demonstrations
 
-- [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team.
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [5861⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
-- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [1601⭐] - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
-- [Generative Art](https://github.com/Solido/flutter-d-art) [401⭐] - Generative Art by [Robert Felker](https://github.com/Solido).
+- [Official Gallery](https://github.com/flutter/gallery) ![stars](https://img.shields.io/github/stars/flutter/gallery?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/flutter/gallery?style=flat-square)- Demo for the material design widgets provided by Flutter Team.
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) ⭐![stars](https://img.shields.io/github/stars/nisrulz/flutter-examples?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nisrulz/flutter-examples?style=flat-square) - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) ⭐![stars](https://img.shields.io/github/stars/X-Wei/flutter_catalog?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/X-Wei/flutter_catalog?style=flat-square) - showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei).
+- [Generative Art](https://github.com/Solido/flutter-d-art) ⭐![stars](https://img.shields.io/github/stars/Solido/flutter-d-art?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Solido/flutter-d-art?style=flat-square) - Generative Art by [Robert Felker](https://github.com/Solido).
 
 
 ### UI
 
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [2292⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
-- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [401⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
-- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [646⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [461⭐] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
-- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [261⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
-- [Flushbar](https://github.com/AndreHaueisen/flushbar) [818⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
-- [Stepper Touch](https://github.com/Rahiche/stepper_touch) [238⭐] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
-- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [560⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
-- [Snaplist](https://github.com/ariedov/flutter_snaplist) [366⭐] - Create snappable list views by [David Leibovych](https://github.com/ariedov).
-- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [252⭐] - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung).
-- [Folding Cell](https://github.com/faob-dev/folding_cell) [430⭐] - Fold your widget by [Faob](https://github.com/faob-dev).
-- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [922⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) ![stars](https://img.shields.io/github/stars/letsar/flutter_staggered_grid_view?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/letsar/flutter_staggered_grid_view?style=flat-square) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) ![stars](https://img.shields.io/github/stars/xqwzts/flutter_radial_menu?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/xqwzts/flutter_radial_menu?style=flat-square) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) ![stars](https://img.shields.io/github/stars/Ivaskuu/tinder_cards?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Ivaskuu/tinder_cards?style=flat-square) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
+- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) ![stars](https://img.shields.io/github/stars/hnvn/flutter_flip_panel?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/hnvn/flutter_flip_panel?style=flat-square) - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
+- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) ![stars](https://img.shields.io/github/stars/duytq94/facebook-reaction-animation?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/duytq94/facebook-reaction-animation?style=flat-square) - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
+- [Flushbar](https://github.com/AndreHaueisen/flushbar) ![stars](https://img.shields.io/github/stars/AndreHaueisen/flushbar?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AndreHaueisen/flushbar?style=flat-square) - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
+- [Stepper Touch](https://github.com/Rahiche/stepper_touch) ![stars](https://img.shields.io/github/stars/Rahiche/stepper_touch?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Rahiche/stepper_touch?style=flat-square) - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+- [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) ![stars](https://img.shields.io/github/stars/AbdulRahmanAlHamali/flutter_typeahead?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AbdulRahmanAlHamali/flutter_typeahead?style=flat-square) - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
+- [Snaplist](https://github.com/ariedov/flutter_snaplist) ![stars](https://img.shields.io/github/stars/ariedov/flutter_snaplist?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ariedov/flutter_snaplist?style=flat-square) - Create snappable list views by [David Leibovych](https://github.com/ariedov).
+- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) ![stars](https://img.shields.io/github/stars/LiewJunTung/pin_code_text_field?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/LiewJunTung/pin_code_text_field?style=flat-square) - Animated & customisable Pin code for login and OTP by [Liew Jun Tung](https://github.com/liewjuntung).
+- [Folding Cell](https://github.com/faob-dev/folding_cell) ![stars](https://img.shields.io/github/stars/faob-dev/folding_cell?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/faob-dev/folding_cell?style=flat-square) - Fold your widget by [Faob](https://github.com/faob-dev).
+- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ![stars](https://img.shields.io/github/stars/aagarwal1012/Liquid-Pull-To-Refresh?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aagarwal1012/Liquid-Pull-To-Refresh?style=flat-square) - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
-- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Before After](https://github.com/xsahil03x/before_after) [580⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
-- [Scratcher](https://github.com/vintage/scratcher) [306⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
-- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) [104⭐] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
-- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [452⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
-- [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [317⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
-- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
-- [Flutter Tags](https://github.com/Dn-a/flutter_tags) [332⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
-- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) [1329⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
-- [Dough](https://github.com/HatFeather/flutter_dough) [388⭐] - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
-- [Card Settings](https://github.com/codegrue/card_settings) [356⭐] - package for building settings forms by [codegrue](https://github.com/codegrue).
-- [Timelines](https://github.com/chulwoo-park/timelines) [413⭐] - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
-- [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) [446⭐] - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
-- [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) [127⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
-- [PlutoGrid](https://github.com/bosskmk/pluto_grid) [182⭐] - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
+- [Direct Select](https://github.com/LanarsInc/direct-select-flutter) ![stars](https://img.shields.io/github/stars/LanarsInc/direct-select-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/LanarsInc/direct-select-flutter?style=flat-square)- Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+- [Before After](https://github.com/xsahil03x/before_after) ![stars](https://img.shields.io/github/stars/xsahil03x/before_after?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/xsahil03x/before_after?style=flat-square) - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
+- [Scratcher](https://github.com/vintage/scratcher) ![stars](https://img.shields.io/github/stars/vintage/scratcher?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/vintage/scratcher?style=flat-square) - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
+- [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) ![stars](https://img.shields.io/github/stars/aliyigitbireroglu/flutter-image-sequence-animator?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aliyigitbireroglu/flutter-image-sequence-animator?style=flat-square) - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) ![stars](https://img.shields.io/github/stars/jaweii/Flutter_beautiful_popup?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jaweii/Flutter_beautiful_popup?style=flat-square) - Beautify your app popup by [jaweii](https://github.com/jaweii).
+- [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) ![stars](https://img.shields.io/github/stars/Origogi/Flutter-Credit-Card-Input?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Origogi/Flutter-Credit-Card-Input?style=flat-square) - Animated credit card input form [Origogi](https://github.com/Origogi).
+- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) ![stars](https://img.shields.io/github/stars/sbilketay/animated_selection_slide?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/sbilketay/animated_selection_slide?style=flat-square)- An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
+- [Flutter Tags](https://github.com/Dn-a/flutter_tags) ![stars](https://img.shields.io/github/stars/Dn-a/flutter_tags?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Dn-a/flutter_tags?style=flat-square) - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) ![stars](https://img.shields.io/github/stars/Idean/Flutter-Neumorphic?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Idean/Flutter-Neumorphic?style=flat-square) - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
+- [Dough](https://github.com/HatFeather/flutter_dough) ![stars](https://img.shields.io/github/stars/HatFeather/flutter_dough?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/HatFeather/flutter_dough?style=flat-square) - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+- [Card Settings](https://github.com/codegrue/card_settings) ![stars](https://img.shields.io/github/stars/codegrue/card_settings?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/codegrue/card_settings?style=flat-square) - package for building settings forms by [codegrue](https://github.com/codegrue).
+- [Timelines](https://github.com/chulwoo-park/timelines) ![stars](https://img.shields.io/github/stars/chulwoo-park/timelines?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/chulwoo-park/timelines?style=flat-square) - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+- [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) ![stars](https://img.shields.io/github/stars/JHBitencourt/timeline_tile?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JHBitencourt/timeline_tile?style=flat-square) - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) ![stars](https://img.shields.io/github/stars/chrisedg87/flutter_rounded_loading_button?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/chrisedg87/flutter_rounded_loading_button?style=flat-square) - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
+- [PlutoGrid](https://github.com/bosskmk/pluto_grid) ![stars](https://img.shields.io/github/stars/bosskmk/pluto_grid?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bosskmk/pluto_grid?style=flat-square) - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
 #### Sticky Headers
 
-- [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) [234⭐] - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine).
-- [Sticky Header](https://github.com/letsar/flutter_sticky_header) [666⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
-- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [731⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
+- [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) ![stars](https://img.shields.io/github/stars/TatsuUkraine/flutter_sticky_infinite_list?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/TatsuUkraine/flutter_sticky_infinite_list?style=flat-square) - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine).
+- [Sticky Header](https://github.com/letsar/flutter_sticky_header) ![stars](https://img.shields.io/github/stars/letsar/flutter_sticky_header?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/letsar/flutter_sticky_header?style=flat-square) - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
+- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) ![stars](https://img.shields.io/github/stars/slightfoot/flutter_sticky_headers?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/slightfoot/flutter_sticky_headers?style=flat-square) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 
 #### Drawers
 
-- [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [231⭐] - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
-- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [385⭐] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
+- [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) ![stars](https://img.shields.io/github/stars/RafaelBarbosatec/hidden_drawer_menu?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/RafaelBarbosatec/hidden_drawer_menu?style=flat-square) - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
+- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) ![stars](https://img.shields.io/github/stars/Dn-a/flutter_inner_drawer?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Dn-a/flutter_inner_drawer?style=flat-square) - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by [Di Natale Antonino](https://github.com/Dn-a).
 
 #### Bottom bars
 
-- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [545⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
-- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [439⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
-- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [775⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
-- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) [291⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
-- [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) [409⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
+- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ![stars](https://img.shields.io/github/stars/tunitowen/fancy_bottom_navigation?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tunitowen/fancy_bottom_navigation?style=flat-square) - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) ![stars](https://img.shields.io/github/stars/imaNNeoFighT/circular_bottom_navigation?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/imaNNeoFighT/circular_bottom_navigation?style=flat-square) - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
+- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ![stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pedromassango/bottom_navy_bar?style=flat-square) - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) ![stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pedromassango/titled_navigation_bar?style=flat-square) - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
+- [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) ![stars](https://img.shields.io/github/stars/sooxt98/google_nav_bar?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/sooxt98/google_nav_bar?style=flat-square) - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
 
 #### Bottom Sheets
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) [418⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
@@ -222,12 +223,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Material Design
 
-- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) [300⭐] - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
-- [Slidable](https://github.com/letsar/flutter_slidable) [2008⭐] - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
+- [Unicorn Speed Dial](https://github.com/tiagojencmartins/unicornspeeddial) ![stars](https://img.shields.io/github/stars/tiagojencmartins/unicornspeeddial?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tiagojencmartins/unicornspeeddial?style=flat-square) - Floating Action Button with Speed Dial by [Tiago Martins](https://github.com/tiagojencmartins).
+- [Slidable](https://github.com/letsar/flutter_slidable) ![stars](https://img.shields.io/github/stars/letsar/flutter_slidable?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/letsar/flutter_slidable?style=flat-square) - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar).
 
 #### Cupertino Design
 
-- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) [188⭐] - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) ![stars](https://img.shields.io/github/stars/aliyigitbireroglu/flutter-peek-and-pop?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aliyigitbireroglu/flutter-peek-and-pop?style=flat-square) - Peek & Pop implementation based on the iOS functionality by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 #### Effect
 
@@ -343,8 +344,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Styling
 
-- [Flutterial](https://github.com/rxlabz/flutterial) [1437⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [Pigment](https://github.com/bregydoc/pigment) [184⭐] - Simple but useful package for use colors in flutter.
+- [Flutterial](https://github.com/rxlabz/flutterial) ![stars](https://img.shields.io/github/stars/rxlabz/flutterial?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rxlabz/flutterial?style=flat-square) - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
+- [Pigment](https://github.com/bregydoc/pigment) ![stars](https://img.shields.io/github/stars/bregydoc/pigment?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bregydoc/pigment?style=flat-square) - Simple but useful package for use colors in flutter.
 
 ### Media
 
@@ -365,13 +366,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Voice
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) [323⭐] - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) ![stars](https://img.shields.io/github/stars/rxlabz/speech_recognition?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rxlabz/speech_recognition?style=flat-square) - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/).
 
 ### Storage
 
-- [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) - Firebase as data storage.
-- [Secure Storage](https://github.com/mogol/flutter_secure_storage) [723⭐] - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol).
+- [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) ![stars](https://img.shields.io/github/stars/FirebaseExtended/flutterfire?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/FirebaseExtended/flutterfire?style=flat-square)- Firebase as data storage.
+- [Secure Storage](https://github.com/mogol/flutter_secure_storage) ![stars](https://img.shields.io/github/stars/mogol/flutter_secure_storage?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mogol/flutter_secure_storage?style=flat-square) - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol).
 
 #### Preferences
 
@@ -388,39 +389,40 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Templates
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [372⭐] - Movie details page by [Iiro Krankka](https://github.com/roughike).
-- [Mates](https://github.com/CodemateLtd/FlutterMates) [482⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
-- [Weather](https://github.com/alessandroaime/Weather) [141⭐] - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [7528⭐] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
-- [Restaurant Menu](https://github.com/braulio94/menu_flutter) [553⭐] - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
-- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) [1272⭐] - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
-- [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) [219⭐] - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
-- [Music Player](https://github.com/thosakwe/flutter_music_player) [205⭐] - music player component by [Tobe O](https://thosakwe.com/).
-- [Dashboard](https://github.com/Ivaskuu/dashboard) [814⭐] - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Todo](https://github.com/littlemarc2011/FlutterTodo) [519⭐] - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
-- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [462⭐] - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
-- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [5707⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
-- [Book](https://github.com/putraxor/flutter-book-app) [300⭐] - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor).
-- [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [1497⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat).
-- [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [251⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984).
-- [DrawApp](https://github.com/SnakeyHips/drawapp) [208⭐] - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips).
-- [Starter Kit](https://github.com/KingWu/flutter_starter_kit) [596⭐] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu).
-- [Feather](https://github.com/jhomlala/feather) [472⭐] - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala).
-- [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) [1280⭐] - Collection of useful UIs clones by [Javier González](https://github.com/javico2609).
-- [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) [1113⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru).
-- [Flutter Samples](https://github.com/diegoveloper/flutter-samples) [2464⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
-- [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) [285⭐] - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw).
-- [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) [590⭐] - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92).
-- [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) [186⭐] - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) ![stars](https://img.shields.io/github/stars/FlutterRocks/movie-details-ui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/FlutterRocks/movie-details-ui?style=flat-square) - Movie details page by [Iiro Krankka](https://github.com/roughike).
+- [Mates](https://github.com/CodemateLtd/FlutterMates) ![stars](https://img.shields.io/github/stars/CodemateLtd/FlutterMates?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/CodemateLtd/FlutterMates?style=flat-square) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
+- [Weather](https://github.com/alessandroaime/Weather) ![stars](https://img.shields.io/github/stars/alessandroaime/Weather?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/alessandroaime/Weather?style=flat-square) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime).
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) ![stars](https://img.shields.io/github/stars/brianegan/flutter_architecture_samples?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/brianegan/flutter_architecture_samples?style=flat-square) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan).
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) ![stars](https://img.shields.io/github/stars/braulio94/menu_flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/braulio94/menu_flutter?style=flat-square) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94).
+- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) ![stars](https://img.shields.io/github/stars/tomialagbe/flutter_ui_challenges?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/tomialagbe/flutter_ui_challenges?style=flat-square) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
+- [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) ![stars](https://img.shields.io/github/stars/matthinc/flutter_cupertino_settings?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/matthinc/flutter_cupertino_settings?style=flat-square) - iOS Settings by [Matthias Rupp](https://github.com/matthinc).
+- [Music Player](https://github.com/thosakwe/flutter_music_player) ![stars](https://img.shields.io/github/stars/thosakwe/flutter_music_player?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/thosakwe/flutter_music_player?style=flat-square) - music player component by [Tobe O](https://thosakwe.com/).
+- [Dashboard](https://github.com/Ivaskuu/dashboard) ![stars](https://img.shields.io/github/stars/Ivaskuu/dashboard?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Ivaskuu/dashboard?style=flat-square) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
+- [Todo](https://github.com/littlemarc2011/FlutterTodo) ![stars](https://img.shields.io/github/stars/littlemarc2011/FlutterTodo?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/littlemarc2011/FlutterTodo?style=flat-square) - Todo template from Dribble by [Marc L](https://www.marc-little.com/).
+- [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) ![stars](https://img.shields.io/github/stars/geekruchika/FlutterCardSwipe?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/geekruchika/FlutterCardSwipe?style=flat-square) - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika).
+- [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) ![stars](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-UI-Kit?style=flat-square) - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
+- [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) ![stars](https://img.shields.io/github/stars/mitesh77/Best-Flutter-UI-Templates?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mitesh77/Best-Flutter-UI-Templates?style=flat-square) - Best-Flutter-UI-Templates: completely free for everyone. Its build-in Flutter Dart.
+- [Book](https://github.com/putraxor/flutter-book-app) ![stars](https://img.shields.io/github/stars/putraxor/flutter-book-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/putraxor/flutter-book-app?style=flat-square) - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor).
+- [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) ![stars](https://img.shields.io/github/stars/huextrat/TheGorgeousLogin?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huextrat/TheGorgeousLogin?style=flat-square) - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat).
+- [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) ![stars](https://img.shields.io/github/stars/longhoang2984/flutter_payment_app_ui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/longhoang2984/flutter_payment_app_ui?style=flat-square) - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984).
+- [DrawApp](https://github.com/SnakeyHips/drawapp) ![stars](https://img.shields.io/github/stars/SnakeyHips/drawapp?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/SnakeyHips/drawapp?style=flat-square) - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips).
+- [Starter Kit](https://github.com/KingWu/flutter_starter_kit) ![stars](https://img.shields.io/github/stars/KingWu/flutter_starter_kit?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KingWu/flutter_starter_kit?style=flat-square) - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu).
+- [Feather](https://github.com/jhomlala/feather) ![stars](https://img.shields.io/github/stars/jhomlala/feather?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jhomlala/feather?style=flat-square) - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala).
+- [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) ![stars](https://img.shields.io/github/stars/javico2609/flutter-challenges?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/javico2609/flutter-challenges?style=flat-square) - Collection of useful UIs clones by [Javier González](https://github.com/javico2609).
+- [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ![stars](https://img.shields.io/github/stars/JideGuru/FlutterFoodybite?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JideGuru/FlutterFoodybite?style=flat-square) - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru).
+- [Flutter Samples](https://github.com/diegoveloper/flutter-samples) ![stars](https://img.shields.io/github/stars/diegoveloper/flutter-samples?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/diegoveloper/flutter-samples?style=flat-square) - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
+- [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) ![stars](https://img.shields.io/github/stars/gregertw/actingweb_firstapp?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/gregertw/actingweb_firstapp?style=flat-square) - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw).
+- [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) ![stars](https://img.shields.io/github/stars/pawlik92/flutter_whirlpool?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pawlik92/flutter_whirlpool?style=flat-square) - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92).
+- [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) ![stars](https://img.shields.io/github/stars/JHBitencourt/beautiful_timelines?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/JHBitencourt/beautiful_timelines?style=flat-square) - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Clone
 
-- [GitTouch](https://github.com/pd4d10/git-touch) [979⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10).
+- [GitTouch](https://github.com/pd4d10/git-touch) ![stars](https://img.shields.io/github/stars/pd4d10/git-touch?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pd4d10/git-touch?style=flat-square) - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10).
 
 ### Machine Learning
 
-- [MLKit](https://github.com/azihsoyn/flutter_mlkit) [377⭐] - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn).
-- [m2cgen](https://github.com/BayesWitnesses/m2cgen) [1953⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
+- [MLKit](https://github.com/azihsoyn/flutter_mlkit) ![stars](https://img.shields.io/github/stars/azihsoyn/flutter_mlkit?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/azihsoyn/flutter_mlkit?style=flat-square) - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn).
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) ![stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen?style=flat-square) - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
 
 ### Vision
 
@@ -435,7 +437,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Plugins
 
 - [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
-- [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
+- [Plugins](https://github.com/flutter/plugins/tree/master/packages) ![stars](https://img.shields.io/github/stars/flutter/plugins?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/flutter/plugins?style=flat-square)- Official Flutter Team Plugins.
 
 ### Device
 
@@ -459,17 +461,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Scanner
 
-- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) [218⭐] - QR Code reader plugin by [Matheus Villela](https://github.com/villela).
-- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) [275⭐] - Live multicode reader by [Facundo Medica](https://github.com/facundomedica).
+- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) ![stars](https://img.shields.io/github/stars/villela/flutter_qrcode_reader?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/villela/flutter_qrcode_reader?style=flat-square) - QR Code reader plugin by [Matheus Villela](https://github.com/villela).
+- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) ![stars](https://img.shields.io/github/stars/facundomedica/fast_qr_reader_view?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/facundomedica/fast_qr_reader_view?style=flat-square) - Live multicode reader by [Facundo Medica](https://github.com/facundomedica).
 
 #### Bluetooth / NFC / Beacon
 
-- [Blue](https://github.com/pauldemarco/flutter_blue) [1914⭐] - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco).
-- [Beacons](https://github.com/loup-v/beacons) [75⭐] - Flutter beacons plugin by [Loup](http://intheloup.io).
-- [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) [285⭐] - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa).
-- [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) [70⭐] - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/).
-- [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) [272⭐] - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue).
-- [NFC Manager](https://github.com/okadan/flutter-nfc-manager) [83⭐] - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan).
+- [Blue](https://github.com/pauldemarco/flutter_blue) ![stars](https://img.shields.io/github/stars/pauldemarco/flutter_blue?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pauldemarco/flutter_blue?style=flat-square) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco).
+- [Beacons](https://github.com/loup-v/beacons) ![stars](https://img.shields.io/github/stars/loup-v/beacons?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/loup-v/beacons?style=flat-square) - Flutter beacons plugin by [Loup](http://intheloup.io).
+- [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) ![stars](https://img.shields.io/github/stars/matteocrippa/flutter-nfc-reader?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/matteocrippa/flutter-nfc-reader?style=flat-square) - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa).
+- [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) ![stars](https://img.shields.io/github/stars/pszklarska/beacon_broadcast?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pszklarska/beacon_broadcast?style=flat-square) - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/).
+- [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) ![stars](https://img.shields.io/github/stars/PhilipsHue/flutter_reactive_ble?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/PhilipsHue/flutter_reactive_ble?style=flat-square) - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue).
+- [NFC Manager](https://github.com/okadan/flutter-nfc-manager) ![stars](https://img.shields.io/github/stars/okadan/flutter-nfc-manager?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/okadan/flutter-nfc-manager?style=flat-square) - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan).
 
 ### Storage
 
@@ -492,12 +494,12 @@ Simon Binder](https://github.com/simolus3)
 
 #### Standard
 
-- [Bloc](https://github.com/felangel/bloc) [8181⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
-- [MobX](https://github.com/mobxjs/mobx.dart) [2037⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
-- [Provider](https://github.com/rrousselGit/provider) [3974⭐] - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
-- [RiverPod](https://github.com/rrousselGit/river_pod) [2214⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
-- [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
-- [Binder](https://github.com/letsar/binder) [167⭐] -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
+- [Bloc](https://github.com/felangel/bloc) ![stars](https://img.shields.io/github/stars/felangel/bloc?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/felangel/bloc?style=flat-square) - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
+- [MobX](https://github.com/mobxjs/mobx.dart) ![stars](https://img.shields.io/github/stars/mobxjs/mobx.dart?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mobxjs/mobx.dart?style=flat-square) - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
+- [Provider](https://github.com/rrousselGit/provider) ![stars](https://img.shields.io/github/stars/rrousselGit/provider?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rrousselGit/provider?style=flat-square) - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
+- [RiverPod](https://github.com/rrousselGit/river_pod) ![stars](https://img.shields.io/github/stars/rrousselGit/river_pod?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/rrousselGit/river_pod?style=flat-square) - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
+- [GetX](https://github.com/jonataslaw/getx) ![stars](https://img.shields.io/github/stars/jonataslaw/getx?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jonataslaw/getx?style=flat-square)<!--jonataslaw/getx--> - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
+- [Binder](https://github.com/letsar/binder) ![stars](https://img.shields.io/github/stars/letsar/binder?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/letsar/binder?style=flat-square) -  A lightweight, yet powerful way to bind your application state with your business logic, by [Romain Rastel](https://github.com/letsar).
 
 #### Redux / ELM / Dependency Injection
 
@@ -516,16 +518,16 @@ Simon Binder](https://github.com/simolus3)
 
 ### Data
 
-- [Graphql](https://github.com/zino-app/graphql-flutter) [2796⭐] - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
-- [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) [244⭐] - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/).
-- [Ferry](https://github.com/gql-dart/ferry) [334⭐] - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa).
+- [Graphql](https://github.com/zino-app/graphql-flutter) ![stars](https://img.shields.io/github/stars/zino-app/graphql-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter?style=flat-square) - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app).
+- [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ![stars](https://img.shields.io/github/stars/DarshanGowda0/GeoFlutterFire?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/DarshanGowda0/GeoFlutterFire?style=flat-square)  - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/).
+- [Ferry](https://github.com/gql-dart/ferry) ![stars](https://img.shields.io/github/stars/gql-dart/ferry?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/gql-dart/ferry?style=flat-square) - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa).
 
 
 ### Backend
 
-- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) [1100⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
-- [NETCoreSync](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool).
-- [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) [394⭐] - Open source backend framework by  [ParsePlatform](https://parseplatform.org/).
+- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ![stars](https://img.shields.io/github/stars/dengyin2000/dynamic_widget?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dengyin2000/dynamic_widget?style=flat-square) - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
+- [NETCoreSync](https://github.com/aldycool/NETCoreSync) ![stars](https://img.shields.io/github/stars/aldycool/NETCoreSync?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aldycool/NETCoreSync?style=flat-square)- Centralized database synchronization framework for multiple clients, built on top of [Moor](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool).
+- [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) ![stars](https://img.shields.io/github/stars/parse-community/Parse-SDK-Flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/parse-community/Parse-SDK-Flutter?style=flat-square) - Open source backend framework by  [ParsePlatform](https://parseplatform.org/).
 
 ### Animation
 
@@ -544,23 +546,23 @@ Simon Binder](https://github.com/simolus3)
 ### Testing
 
 
-- [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) [150⭐] - Fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell).
+- [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) ![stars](https://img.shields.io/github/stars/jonsamwell/flutter_gherkin?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jonsamwell/flutter_gherkin?style=flat-square) - Fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell).
 
 ### Web
 
-- [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) [702⭐] - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com).
+- [Responsive Framework](https://github.com/Codelessly/ResponsiveFramework) ![stars](https://img.shields.io/github/stars/Codelessly/ResponsiveFramework?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Codelessly/ResponsiveFramework?style=flat-square) - Automatically adapt UI to different screen sizes. Responsiveness made simple by [Codelessly](https://codelessly.com).
 
 ## Experimental
 
 This section contains libraries that take an experimental or unorthodox approach.
 
-- [styled_widget](https://github.com/ReinBentdal/styled_widget) [671⭐] - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
+- [styled_widget](https://github.com/ReinBentdal/styled_widget) ![stars](https://img.shields.io/github/stars/ReinBentdal/styled_widget?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ReinBentdal/styled_widget?style=flat-square) - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
 ## Engines
 
 ### Rendering
 
-- [Graphx](https://github.com/roipeker/graphx) [293⭐] - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
+- [Graphx](https://github.com/roipeker/graphx) ![stars](https://img.shields.io/github/stars/roipeker/graphx?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/roipeker/graphx?style=flat-square) - Making drawings and animations extremely simple, inspired by Flash, by [Roi Peker](https://github.com/roipeker).
 
 ### Game
 
@@ -581,65 +583,65 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Game Engine resources
 
-- [Awesome Flame](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine).
+- [Awesome Flame](https://github.com/flame-engine/awesome-flame) ![stars](https://img.shields.io/github/stars/flame-engine/awesome-flame?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/flame-engine/awesome-flame?style=flat-square)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine).
 
 
 ## Open Source Apps
 
 ### Premium
 
-- [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) [5887⭐] - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/).
-- [Developer Quest](https://github.com/2d-inc/developer_quest)  [2917⭐] - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/).
-- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) [12156⭐] - The Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
+- [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ![stars](https://img.shields.io/github/stars/2d-inc/HistoryOfEverything?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/2d-inc/HistoryOfEverything?style=flat-square) - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/).
+- [Developer Quest](https://github.com/2d-inc/developer_quest) ![stars](https://img.shields.io/github/stars/2d-inc/developer_quest?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/2d-inc/developer_quest?style=flat-square) - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/).
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ![stars](https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AppFlowy-IO/appflowy?style=flat-square) - The Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
 
 ### Top
 
-- [Flutter Team Samples](https://github.com/flutter/samples) [10919⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
-- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [22910⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
-- [Meme Chat](https://github.com/efortuna/memechat) [514⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
-- [Flitter](https://github.com/dart-flitter/flitter) [183⭐] - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
-- [Lime](https://github.com/fablue/lime-flutter) [356⭐] - Lime social network by Sebastian Sellmair.
-- [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [711⭐] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
-- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [505⭐] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
-- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) [513⭐] - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
-- [Music Player](https://github.com/iampawan/Flutter-Music-Player) [1332⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
-- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [910⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-- [FlutterGram](https://github.com/mdanics/fluttergram) [1939⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
-- [BookSearch](https://github.com/Norbert515/BookSearch) [472⭐] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
-- [Cinematic](https://github.com/aaronoe/FlutterCinematic) [832⭐] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
-- [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [441⭐] - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
-- [Trace](https://github.com/trentpiercy/trace) [789⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
-- [Taskist](https://github.com/huextrat/Taskist) [729⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
-- [Tourism](https://github.com/bluemix/tourism-demo) [251⭐] - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo).
-- [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [562⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
-- [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
-- [Deer](https://github.com/aleksanderwozniak/deer) [297⭐] - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
-- [TailorMade](https://github.com/jogboms/tailor_made) [235⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms).
-- [Instory](https://github.com/InvertedX/instory) [194⭐] - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar).
-- [Spacex-Go](https://github.com/jesusrp98/spacex-go) [645⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
-- [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) [218⭐] - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji).
-- [Reply](https://github.com/flschweiger/reply) [535⭐] - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger).
-- [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki).
-- [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
-- [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
-- [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1742⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
-- [GitJournal](https://github.com/GitJournal/GitJournal) [1717⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
-- [AuthPass](https://github.com/authpass/authpass) [1061⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
-- [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [1523⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
-- [Harpy](https://github.com/robertodoering/harpy) [825⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
+- [Flutter Team Samples](https://github.com/flutter/samples) ![stars](https://img.shields.io/github/stars/flutter/samples?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/flutter/samples?style=flat-square) - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ![stars](https://img.shields.io/github/stars/alibaba/flutter-common-widgets-app?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/alibaba/flutter-common-widgets-app?style=flat-square) - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
+- [Meme Chat](https://github.com/efortuna/memechat) ![stars](https://img.shields.io/github/stars/efortuna/memechat?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/efortuna/memechat?style=flat-square) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+- [Flitter](https://github.com/dart-flitter/flitter) ![stars](https://img.shields.io/github/stars/dart-flitter/flitter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dart-flitter/flitter?style=flat-square)  - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
+- [Lime](https://github.com/fablue/lime-flutter) ![stars](https://img.shields.io/github/stars/fablue/lime-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/fablue/lime-flutter?style=flat-square) - Lime social network by Sebastian Sellmair.
+- [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) ![stars](https://img.shields.io/github/stars/sergiandreplace/flutter_planets_tutorial?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/sergiandreplace/flutter_planets_tutorial?style=flat-square) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) ![stars](https://img.shields.io/github/stars/theankurkedia/NewsBuzz?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/theankurkedia/NewsBuzz?style=flat-square) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+- [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) ![stars](https://img.shields.io/github/stars/konifar/droidkaigi2018-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/konifar/droidkaigi2018-flutter?style=flat-square) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+- [Music Player](https://github.com/iampawan/Flutter-Music-Player) ![stars](https://img.shields.io/github/stars/iampawan/Flutter-Music-Player?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/iampawan/Flutter-Music-Player?style=flat-square) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ![stars](https://img.shields.io/github/stars/burhanrashid52/WhatTodo?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/burhanrashid52/WhatTodo?style=flat-square) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
+- [FlutterGram](https://github.com/mdanics/fluttergram) ![stars](https://img.shields.io/github/stars/mdanics/fluttergram?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/mdanics/fluttergram?style=flat-square) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [BookSearch](https://github.com/Norbert515/BookSearch) ![stars](https://img.shields.io/github/stars/Norbert515/BookSearch?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/Norbert515/BookSearch?style=flat-square) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+- [Cinematic](https://github.com/aaronoe/FlutterCinematic) ![stars](https://img.shields.io/github/stars/aaronoe/FlutterCinematic?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aaronoe/FlutterCinematic?style=flat-square) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) ![stars](https://img.shields.io/github/stars/benoitletondor/Beer-Me-Up?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/benoitletondor/Beer-Me-Up?style=flat-square) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+- [Trace](https://github.com/trentpiercy/trace) ![stars](https://img.shields.io/github/stars/trentpiercy/trace?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/trentpiercy/trace?style=flat-square) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+- [Taskist](https://github.com/huextrat/Taskist) ![stars](https://img.shields.io/github/stars/huextrat/Taskist?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huextrat/Taskist?style=flat-square) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+- [Tourism](https://github.com/bluemix/tourism-demo) ![stars](https://img.shields.io/github/stars/bluemix/tourism-demo?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bluemix/tourism-demo?style=flat-square) - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo).
+- [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) ![stars](https://img.shields.io/github/stars/matthewtory/trinity-orientation-2018?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/matthewtory/trinity-orientation-2018?style=flat-square) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+- [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) ![stars](https://img.shields.io/github/stars/DrPaulT/flutter-engine-test?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/DrPaulT/flutter-engine-test?style=flat-square)- Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT).
+- [Deer](https://github.com/aleksanderwozniak/deer) ![stars](https://img.shields.io/github/stars/aleksanderwozniak/deer?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/aleksanderwozniak/deer?style=flat-square) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [TailorMade](https://github.com/jogboms/tailor_made) ![stars](https://img.shields.io/github/stars/jogboms/tailor_made?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jogboms/tailor_made?style=flat-square) - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Instory](https://github.com/InvertedX/instory) ![stars](https://img.shields.io/github/stars/InvertedX/instory?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/InvertedX/instory?style=flat-square) - Instgram story downloader with a beautiful UI [Sarath](https://twitter.com/_sarath_kumar).
+- [Spacex-Go](https://github.com/jesusrp98/spacex-go) ![stars](https://img.shields.io/github/stars/jesusrp98/spacex-go?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/jesusrp98/spacex-go?style=flat-square) - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+- [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) ![stars](https://img.shields.io/github/stars/pinkeshdarji/SuperHeroInteraction?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/pinkeshdarji/SuperHeroInteraction?style=flat-square) - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji).
+- [Reply](https://github.com/flschweiger/reply) ![stars](https://img.shields.io/github/stars/flschweiger/reply?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/flschweiger/reply?style=flat-square) - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger).
+- [Enigma](https://github.com/AmitJoki/Enigma) ![stars](https://img.shields.io/github/stars/AmitJoki/Enigma?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AmitJoki/Enigma?style=flat-square) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki).
+- [Chillify](https://github.com/KarimElghamry/chillify) ![stars](https://img.shields.io/github/stars/KarimElghamry/chillify?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/KarimElghamry/chillify?style=flat-square)- Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
+- [Pokedex](https://github.com/scitbiz/flutter_pokedex) ![stars](https://img.shields.io/github/stars/scitbiz/flutter_pokedex?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/scitbiz/flutter_pokedex?style=flat-square) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
+- [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ![stars](https://img.shields.io/github/stars/janoodleFTW/timy-messenger?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/janoodleFTW/timy-messenger?style=flat-square) - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
+- [GitJournal](https://github.com/GitJournal/GitJournal) ![stars](https://img.shields.io/github/stars/GitJournal/GitJournal?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/GitJournal/GitJournal?style=flat-square) - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
+- [AuthPass](https://github.com/authpass/authpass) ![stars](https://img.shields.io/github/stars/authpass/authpass?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/authpass/authpass?style=flat-square) - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
+- [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ![stars](https://img.shields.io/github/stars/TheAlphamerc/flutter_twitter_clone?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/TheAlphamerc/flutter_twitter_clone?style=flat-square) - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
+- [Harpy](https://github.com/robertodoering/harpy) ![stars](https://img.shields.io/github/stars/robertodoering/harpy?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/robertodoering/harpy?style=flat-square) - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
 
 ## Utilities
 
-- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
+- [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ![stars](https://img.shields.io/github/stars/franzsilva/flutter_launcher_icons?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/franzsilva/flutter_launcher_icons?style=flat-square)- Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 - [FlutterIcon](http://fluttericon.com/) [310⭐] - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots).
-- [FVM](https://github.com/leoafarias/fvm) [2233⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
-- [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) [86⭐] - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine).
-- [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) [160⭐] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv).
-- [Fontify](https://github.com/westracer/fontify) [77⭐] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer).
-- [FlutterGen](https://github.com/FlutterGen/flutter_gen) [791⭐] - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
-- [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) [1135⭐] - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
-- [Flutter Sidekick](https://github.com/leoafarias/sidekick)  [544⭐] - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
-- [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) [430⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
+- [FVM](https://github.com/leoafarias/fvm) ![stars](https://img.shields.io/github/stars/leoafarias/fvm?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/leoafarias/fvm?style=flat-square) - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) ![stars](https://img.shields.io/github/stars/TatsuUkraine/dart_environment_config?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/TatsuUkraine/dart_environment_config?style=flat-square) - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine).
+- [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ![stars](https://img.shields.io/github/stars/AngeloAvv/flutter_flavorizr?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/AngeloAvv/flutter_flavorizr?style=flat-square) - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv).
+- [Fontify](https://github.com/westracer/fontify) ![stars](https://img.shields.io/github/stars/westracer/fontify?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/westracer/fontify?style=flat-square) - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer).
+- [FlutterGen](https://github.com/FlutterGen/flutter_gen) ![stars](https://img.shields.io/github/stars/FlutterGen/flutter_gen?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/FlutterGen/flutter_gen?style=flat-square) - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
+- [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) ![stars](https://img.shields.io/github/stars/VeryGoodOpenSource/very_good_cli?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/VeryGoodOpenSource/very_good_cli?style=flat-square) - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
+- [Flutter Sidekick](https://github.com/leoafarias/sidekick)  ![stars](https://img.shields.io/github/stars/leoafarias/sidekick?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/leoafarias/sidekick?style=flat-square) - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
+- [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ![stars](https://img.shields.io/github/stars/dart-code-checker/dart-code-metrics?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/dart-code-checker/dart-code-metrics?style=flat-square) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 
 ### VSCode
 
@@ -650,21 +652,21 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### IntelliJ / Android Studio
 
-- [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) [196⭐] - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h).
+- [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) ![stars](https://img.shields.io/github/stars/marius-h/flutter_enhancement_suite?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/marius-h/flutter_enhancement_suite?style=flat-square) - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h).
 - [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) - 18n binding from arb files by [Localizely](https://twitter.com/localizely).
 
 ### Desktop
 
-- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [6950⭐] - Desktop implementations of the Flutter embedding API by Google.
+- [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ![stars](https://img.shields.io/github/stars/google/flutter-desktop-embedding?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/google/flutter-desktop-embedding?style=flat-square) - Desktop implementations of the Flutter embedding API by Google.
 - [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) [5083⭐] - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio).
-- [Native Shell](https://github.com/nativeshell/nativeshell) [372⭐] - Experimental embedder for Flutter by [Matej Knopp](https://twitter.com/matejknopp).
-- [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) [1871⭐] - Rust embedder for desktop by [juju](https://github.com/gliheng).
-- [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo).
-- [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) [747⭐] - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera).
-- [Fluent UI](https://github.com/bdlukaa/fluent_ui) [566⭐] - Microsoft's Fluent Design System in Flutter by [Bruno D'Luka](https://twitter.com/bdlukaadev).
-- [MacOS UI](https://github.com/GroovinChip/macos_ui) [492⭐] - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip).
-- [Ubuntu Yaru](https://github.com/ubuntu/yaru.dart) [134⭐] - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu).
-- [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) [516⭐] - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter).
+- [Native Shell](https://github.com/nativeshell/nativeshell) ![stars](https://img.shields.io/github/stars/nativeshell/nativeshell?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nativeshell/nativeshell?style=flat-square) - Experimental embedder for Flutter by [Matej Knopp](https://twitter.com/matejknopp).
+- [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) ![stars](https://img.shields.io/github/stars/gliheng/flutter-rs?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/gliheng/flutter-rs?style=flat-square) - Rust embedder for desktop by [juju](https://github.com/gliheng).
+- [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) ![stars](https://img.shields.io/github/stars/bitsdojo/bitsdojo_window?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bitsdojo/bitsdojo_window?style=flat-square)<!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo).
+- [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ![stars](https://img.shields.io/github/stars/ardera/flutter-pi?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ardera/flutter-pi?style=flat-square)  - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera).
+- [Fluent UI](https://github.com/bdlukaa/fluent_ui) ![stars](https://img.shields.io/github/stars/bdlukaa/fluent_ui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/bdlukaa/fluent_ui?style=flat-square) - Microsoft's Fluent Design System in Flutter by [Bruno D'Luka](https://twitter.com/bdlukaadev).
+- [MacOS UI](https://github.com/GroovinChip/macos_ui) ![stars](https://img.shields.io/github/stars/GroovinChip/macos_ui?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/GroovinChip/macos_ui?style=flat-square) - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip).
+- [Ubuntu Yaru](https://github.com/ubuntu/yaru.dart) ![stars](https://img.shields.io/github/stars/ubuntu/yaru.dart?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ubuntu/yaru.dart?style=flat-square) - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu).
+- [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) ![stars](https://img.shields.io/github/stars/leanflutter/awesome-flutter-desktop?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/leanflutter/awesome-flutter-desktop?style=flat-square) - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter).
 
 ## Books
 

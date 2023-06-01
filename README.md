@@ -93,7 +93,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ![stars](https://img.shields.io/github/stars/benlau/androidnative.pri?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/benlau/androidnative.pri?style=flat-square)- Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
 - [Another Awesome Flutter](https://github.com/nepaul/awesome-flutter) ![stars](https://img.shields.io/github/stars/nepaul/awesome-flutter?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/nepaul/awesome-flutter?style=flat-square)- A curated list of awesome Flutter libraries, tools, tutorials, articles and more. All you should know about Flutter development! 
-- [FlutterAwesome](https://flutterawesome.com/) - Flutter Awesome Website.
+- [FlutterAwesome](https://flutterawesome.com/) ✨ - Flutter Awesome Website.
+- [It's All Widgets!: Flutter Apps](https://itsallwidgets.com/) ✨ - An open list of apps built with Flutter. 
 
 ### Tutorial
 
